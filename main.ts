@@ -7,3 +7,6 @@ function display(name: string) {
 function add(val: number, val2: number) {
   return val + val2;
 }
+function subtract(val: number, val2: number) {
+  return val - val2;
+}
